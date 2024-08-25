@@ -1,4 +1,4 @@
-# Loan Approval Prediction Project
+# Credit Risk Assessment
 
 ## Overview
 This project focuses on predicting loan approval status based on various factors such as applicant information, loan amount, credit history, etc. The goal is to build machine learning models that can accurately predict whether a loan application will be approved or not.
